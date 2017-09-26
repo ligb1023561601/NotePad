@@ -1,0 +1,13 @@
+E:\code\Note\Note\bin\Release\Note.exe.config
+E:\code\Note\Note\bin\Release\Note.exe
+E:\code\Note\Note\bin\Release\Note.pdb
+E:\code\Note\Note\obj\Release\Note.Maiform.resources
+E:\code\Note\Note\obj\Release\Note.Properties.Resources.resources
+E:\code\Note\Note\obj\Release\Note.csproj.GenerateResource.Cache
+E:\code\Note\Note\obj\Release\Note.exe
+E:\code\Note\Note\obj\Release\Note.pdb
+E:\code\Note\Note\bin\Release\Note.exe.manifest
+E:\code\Note\Note\bin\Release\Note.application
+E:\code\Note\Note\obj\Release\Note.exe.manifest
+E:\code\Note\Note\obj\Release\Note.application
+E:\code\Note\Note\obj\Release\Note.csprojResolveAssemblyReference.cache
